@@ -55,6 +55,53 @@ Here we go:
 
 
 
+.haha{
+  width:100vw;
+  height:100vh;
+background-repeat:no-repeat;
+background-size: 100vw 1200vw;
+
+
+position: absolute;
+
+
+
+
+}
+
+
+.grid{
+display: grid;
+grid-template-columns: auto auto auto auto;
+border:2px solid;
+grid-gap: 100px;
+
+}
+
+
+
+.i1{
+
+  grid-column: 2;
+border: 2px solid;
+
+}
+
+.i2{
+border: 2px solid;
+
+
+
+}
+
+img{
+
+width:50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
 
 
 
